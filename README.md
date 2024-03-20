@@ -1,6 +1,6 @@
 # Lista de Tarefas
 
-Este é um projeto de Lista de Tarefas onde os usuários podem criar, editar ou excluir tarefas. Cada tarefa tem um nome, descrição, responsavel e status. Além disso, o projeto oferece funcionalidades para cadastrar, editar e excluir tarefas.
+Este é um projeto de Lista de Tarefas onde os usuários podem criar, editar ou excluir tarefas. Cada tarefa tem um nome, descrição, responsavel e status Além de outras funcionalidades.
 
 ## Tecnologias Utilizadas
 
