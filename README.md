@@ -26,7 +26,7 @@ Este é um projeto de Lista de Tarefas onde os usuários podem criar, editar ou 
 ### Melhorias
 - De acordo com o a prioridade tem cores de identificação.
 - Mensagem de pop-ups para mostrar que foi concluida as operações.
-- Responsavel pelas tarefas e seus devers.
+- Responsavel pelas tarefas e seus deveres.
 
 ## Configuração do Projeto
 
