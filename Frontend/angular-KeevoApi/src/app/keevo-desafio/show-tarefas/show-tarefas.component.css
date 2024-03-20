@@ -1,0 +1,40 @@
+.header-row {
+    border-bottom: 4px solid black; /* Define a linha inferior com 4px de espessura e cor preta */
+  }
+.status-nao-inicializada {
+    border-bottom: 2px solid darkgray; /* Sublinhado cinza escuro */
+  }
+  
+  .status-em-andamento {
+    border-bottom: 2px solid orange; /* Sublinhado laranja */
+  }
+  
+  .status-concluida {
+    border-bottom: 2px solid green; /* Sublinhado verde */
+  }
+  
+
+#add-success-alert,
+#add-update-alert,
+#add-delete-alert{
+    display: none;
+}
+#add-success-alert,
+#add-update-alert,
+#add-delete-alert{
+    animation-name: fadeInAndOut;
+    animation-duration: 4s;
+}
+
+@-webkit-keyframes fadeInAndOut{
+    0% {opacity: 0;}
+    50% {opacity: 1;}
+    100% {opacity: 0;}
+
+}
+@keyframes fadeInAndOut{
+    0% {opacity: 0;}
+    50% {opacity: 1;}
+    100% {opacity: 0;}
+
+}
